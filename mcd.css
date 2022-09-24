@@ -1,0 +1,14 @@
+*{background-color: white;
+    font-family: sans-serif;
+    text-align: left;}
+
+#welcome h2{font-size: 30px;
+    font-weight: 100%;}
+#welcome h3{font-size: 3px;
+    font-weight: light;}
+
+button{background-color: #FFC72C;
+    border-radius: 5px;
+    border-color: #FFC72C;
+    border-width: 10px;
+    border-style: ;}
