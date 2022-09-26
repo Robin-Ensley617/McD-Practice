@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>McDonalds</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="mcd.css">
+    </head>
+
+<body>
+    <nav>
+        <a href>Our Menu</a>
+        <a href>Download App</a>
+        <a href="">Exclusive Deals</a>
+        <a href="">About Our Food</a>
+    </nav>
+
+    <h1>McDonald’s®</h1>
+
+
+</body> 
+
+    <footer>
+    <!----each turns into a drop down list-->
+    <p>California Privacy Notice </p>
+    <p>© 2017 - 2022 McDonald's. All Rights Reserved</p>
+</footer>
+</html>
